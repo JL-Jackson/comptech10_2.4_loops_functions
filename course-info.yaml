@@ -1,0 +1,23 @@
+type: marketplace
+title: Introduction to Python lesson 4
+language: English
+summary: |-
+  Master Python fundamentals with no prior experience. Learn by coding in a professional IDE—stress-free, hands-on, and broken into well-structured lessons for smooth, beginner-friendly progress. This lesson covers:
+    - Loops
+    - Functions
+programming_language: Python
+environment: unittest
+content:
+  - Loops
+  - Functions
+additional_files:
+  - name: LICENSE
+  - name: README.md
+  - name: requirements.txt
+    is_binary: true
+mode: Study
+tags:
+  - Beginner-friendly
+vendor:
+  name: jderpak
+yaml_version: 6
